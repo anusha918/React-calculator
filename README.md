@@ -11,13 +11,13 @@
 
 To install all the dependences of the project, run the following command:
 
-    git clone https://github.com/shakti1590/React-Calculator.git
+    git clone https://github.com/anusha918/React-Calculator.git
     yarn install
     yarn start
 
 
 #### Source Code:
- - Link : https://github.com/shakti1590/React-Calculator
+ - Link : https://github.com/anusha918/React-Calculator
 
 
 #### Deployment Link:
